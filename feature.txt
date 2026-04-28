@@ -1,1 +1,2 @@
 This branch demonstrates how to use the multi-cursor feature in VS code.
+This branch also demonstrates how to use extensions in VS Code.

@@ -1,0 +1,5 @@
+Initial commit - Created repository and added README.md
+Branch creation - Created feature branch
+Feature addition - Added feature.txt file
+Pull request - Opened pull request from feature to main
+Merge - Merged feature branch into main
